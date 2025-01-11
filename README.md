@@ -12,3 +12,5 @@ request("sucre")
 request("poulet", "dinde", "sel", "huile d olives", "oeufs", "poivre", "fromage blanc", "fromage", "melon", "amendes", "chocolat noir", "lait", "crème fraîche")
 
 Si une recette est trouvé selon les ingrédient, cela nous la propose. Sinon, cela retourne qu'aucune recette n'a été trouvé. 
+
+Pour avoir accès au code, nous vous invitons à cliquer sur le dossier: final1.R
