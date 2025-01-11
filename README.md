@@ -5,7 +5,7 @@ Pour cela, une fois tout le code lancer, il suffit d'écrire : request ("Ingréd
 
 Pour actionner ce code, il faut activer les lignes 1 à 130. Attention, il faudrait changer le user agent afin que cela fonctionne correctement.
 
-Une fois le code activé, il faut lancer une demande via la fonction "request" (exemple à la ligne 132). Les ingrédients que l'on a doivent être mis entre guillemets et séparés par une virgule.
+Une fois le code activé, il faut lancer une demande via la fonction "request" (exemple à la ligne 132). Les ingrédients que l'on a, doivent être mis entre guillemets et séparés par une virgule.
 
 Voici plusieurs exemples d'utilisation de la fonction request:
 request("sucre")
