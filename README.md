@@ -9,7 +9,7 @@ Une fois le code activé, il faut lancer une demande via la fonction "request" (
 
 Voici plusieurs exemples d'utilisation de la fonction request:
 request("sucre")
-request("poulet", "dinde", "sel", "huile d olives", "oeufs", "poivre", "fromage blanc", "fromage", "melon", "amendes", "chocolat noir", "lait", "crème fraîche")
+request("poulet", "dinde", "sel", "huile d olives", "oeufs", "poivre", "fromage blanc", "fromage", "melon", "amandes", "chocolat noir", "lait", "crème fraîche")
 
 Si une recette est trouvé selon les ingrédient, cela nous la propose. Sinon, cela retourne qu'aucune recette n'a été trouvé. 
 
